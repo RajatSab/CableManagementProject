@@ -1,0 +1,12 @@
+
+DECLARE @ComplaintId int = 8
+DECLARE @AgentId int = 1
+DECLARE @Description nvarchar(50) = 'Travelling and Wire'
+DECLARE @ExpenseXMLString nvarchar(MAX) = '<Expenses>
+    <Expense type="1">100</Expense>
+    <Expense type="2">200</Expense>
+</Expenses>'
+
+EXEC AddExpenseAndResolve @ComplaintId,@AgentId, @Description, @ExpenseXMLString
+
+select * from RajatDetailedExpenses

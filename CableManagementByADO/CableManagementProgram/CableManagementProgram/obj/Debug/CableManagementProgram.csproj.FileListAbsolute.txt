@@ -1,0 +1,11 @@
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\bin\Debug\CableManagementProgram.exe.config
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\bin\Debug\CableManagementProgram.exe
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\bin\Debug\CableManagementProgram.pdb
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\obj\Debug\CableManagementProgram.csproj.AssemblyReference.cache
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\obj\Debug\CableManagementProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\obj\Debug\CableManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\obj\Debug\CableManagementProgram.exe
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\obj\Debug\CableManagementProgram.pdb
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\bin\Debug\Dapper.dll
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\bin\Debug\Dapper.xml
+C:\Users\www.abcom.in\Desktop\CableManagementByADO\CableManagementProgram\CableManagementProgram\obj\Debug\CableManagementProgram.csproj.CopyComplete
